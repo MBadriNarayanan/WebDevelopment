@@ -1,0 +1,106 @@
+/* Padding and Margin */
+
+body{
+
+	padding: 10px;
+	margin:1%;
+
+
+}
+
+
+/*different background color for header*/
+/* background image for header */
+
+header{
+
+	background-color: *rgb(255,255,240); /*ivory*/
+	background-image: url("../images/flywheel.jpg"); /*background image*/
+	background-size:100%;
+	padding:20px;
+}
+
+/* h1 elements should have a new font color and should be in uppercase and a different font size*/
+
+h1
+{
+	color: rgb(255,255,255); /*white*/
+
+	text-align: center;
+
+	font-size: x-large;
+
+	text-transform: uppercase;
+ 
+}
+
+
+
+
+/* sections should have a background color */
+
+section{
+
+	background-color: rgb(255,228,225); /*misty rose*/
+}
+
+/* nav links should have round borders and underline should be removed and styled */
+
+nav a{
+
+	display: inline-block;
+
+	margin: 2%;
+		
+	-webkit-border-radius: 3;
+
+	-moz-border-radius: 3;
+
+	-o-border-radius: 3;
+
+	border-radius: 5px;
+
+	text-decoration: none;
+	padding: 2%;
+
+	color: #000000; /*black */
+
+	text-align: center;
+
+	vertical-align: middle;
+
+	background-color: rgba(218,234,213,0.60);
+
+	width:150px;
+
+	height: 20px;
+}
+
+/* Active Class */
+
+.active {
+	background-color: #FFFFFF;
+}
+
+/* Left & Right Class */
+
+.left {
+	background-color: #848E66;
+	width: 24%;
+	float:left;
+	padding: 5% 0;
+}
+
+.right {
+	width:74%;
+	display: inline-block;
+	padding-left: 2%;
+}
+
+/* Left Image */
+
+.left img {
+	border: solid 1px #000000;
+	width: 80%;
+	margin: 10%;
+}
