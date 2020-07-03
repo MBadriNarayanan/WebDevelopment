@@ -8,7 +8,7 @@ Web Design for Everybody: Basics of Web Development &amp; Coding Specialization 
 
 [Course 2 : Introduction to CSS3 Certificate](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/CSS/Course%202%20Certificate.pdf)
 
-[Course 3 : Interactivity with JavaScript Certificate]()
+[Course 3 : Interactivity with JavaScript Certificate](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/JavaScript/Course%203%20Certificate.pdf)
 
 [Course 4 : Advanced Styling with Responsive Design Certificate]()
 
@@ -24,3 +24,7 @@ Web Design for Everybody: Basics of Web Development &amp; Coding Specialization 
 [Course 2 Week 2 Peer Graded Assignment CSS File to be submitted](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/CSS/assignment-1%202/css/hw2.css)
 
 [Course 2 Week 4 Peer Graded Assignment CSS File to be submitted](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/CSS/assignment-1%202/css/hw3.css)
+
+[Course 3 Week 2 Peer Graded Assignment JavaScript File to be submitted](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/JavaScript/js/gallery.js)
+
+[Course 3 Week 4 Peer Graded Assignment JavaScript File to be submitted](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/JavaScript/js/billing.js)
