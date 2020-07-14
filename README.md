@@ -10,6 +10,8 @@ Web Design for Everybody: Basics of Web Development &amp; Coding Specialization 
 
 [Course 3 : Interactivity with JavaScript Certificate](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/JavaScript/Course%203%20Certificate.pdf)
 
+[Course 4 : Advanced Styling with Responsive Design](https://github.com/MBadriNarayanan/WebDevelopment/blob/master/ResponsiveDesign/Course%20Certificate.pdf)
+
 
 
 # Peer Graded Assignment
